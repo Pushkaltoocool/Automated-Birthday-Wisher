@@ -1,0 +1,8 @@
+Hello [NAME],
+
+Wishing you a wonderful birthday filled with joy, laughter, and memorable moments.
+
+May your special day be the start of a fantastic year ahead!
+
+Warm regards,
+{change with your name}
